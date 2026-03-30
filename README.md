@@ -4,7 +4,7 @@ Name: MELVIN THOMAS
 Registration Number: 24BEC10044
 Course: Open Source Software (OSS)
 Chosen Software
-Git
+Linux Kernal
 
 Project Description
 
