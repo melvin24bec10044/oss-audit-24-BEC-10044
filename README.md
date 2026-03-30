@@ -26,7 +26,7 @@ script5.sh → Open Source Manifesto Generator
 How to Run the Scripts
 
 Step 1: Clone the repository
-git clone https://github.com/MELVIN THOMAS/oss-audit-24BEC10044.git
+git clone https://github.com/melvin24bec10044/oss-audit-24-BEC-10044.git
 
 Step 2: Navigate to directory
 cd oss-audit--24BEC10044
